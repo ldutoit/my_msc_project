@@ -11,6 +11,8 @@ The metadata describing sites is in raw_data/metadata.txt.
 
 The data analysis is in anova.R
 
+I tried some plotting with plot.R for visualising species abundancy by site
+
 The figures are in Figures/
 
 
