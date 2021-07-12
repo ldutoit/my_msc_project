@@ -9,10 +9,7 @@ The raw collected data is in raw_data/raw.csv
 
 The metadata describing sites is in raw_data/metadata.txt.
 
-The data analysis is in anova.R
+The data analysis is in analysis.R creating a plot Figures/abundance_family.pdf
 
-I tried some plotting with plot.R for visualising species abundancy by site
-
-The figures are in Figures/
-
+I am doing an Anova per site in anova.R for visualising species abundancy by site.
 
